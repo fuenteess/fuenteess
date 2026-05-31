@@ -1,1 +1,1 @@
-![hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=fuenteess&api_domain=hackatime.hackclub.com&theme=github_dark&=custom_title=Hackatime+stats&layout=default&cache_seconds=0&langs_count=6)
+![hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=fuenteess&api_domain=hackatime.hackclub.com&theme=github_dark&=custom_title=Stats&display_format=percent&layout=default&cache_seconds=0&langs_count=6)
